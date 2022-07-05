@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Splash&display=swap");
+body {
+  color: rgb(51, 255, 0);
+  text-align: center;
+  font-family: Splash, sans-serif;
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(252, 70, 107, 1) 100%
+  );
+}
+
+.conteudo-padrao {
+  display: block;
+  margin: auto;
+  width: 70%;
+  background-color: black;
+  padding: 10px;
+}
